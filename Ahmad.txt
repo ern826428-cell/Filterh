@@ -1,1 +1,2 @@
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.106.106:2096?path=%2F&security=tls&encryption=none&insecure=0&host=wispy-cloud-0c8d.filternet1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wispy-cloud-0c8d.filternet1.workers.dev#ah
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.106.106:2096?path=%2F&security=tls&encryption=none&insecure=0&host=wispy-cloud-0c8d.filternet1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wispy-cloud-0c8d.filternet1.workers.dev#ahmad
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@172.66.0.113:2053?path=%2F&security=tls&encryption=none&insecure=0&host=wispy-cloud-0c8d.filternet1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wispy-cloud-0c8d.filternet1.workers.dev#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%897
